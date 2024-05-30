@@ -6,7 +6,7 @@ Note: This Checker is a bit older so if guns.lol decides to change their API and
 <p align= "center">
   <img src="https://komarev.com/ghpvc/?username=dohxr">
   <br>
-  <img src="https://img.shields.io/badge/oqop-0078f2?style=flat&logo=Discord&logoColor=white">
+  <img src="https://img.shields.io/badge/dohxr-0078f2?style=flat&logo=Discord&logoColor=white">
 </p>
 
 -----
